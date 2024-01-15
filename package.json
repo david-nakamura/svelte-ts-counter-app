@@ -32,7 +32,9 @@
 		"@sveltejs/adapter-static": "^3.0.1",
 		"@sveltejs/adapter-vercel": "^4.0.4",
 		"@types/uuid": "^9.0.7",
+		"amplify-adapter": "^0.1.0",
 		"aws-amplify": "^6.0.12",
+		"sveltekit-adapter-aws": "^4.5.1",
 		"uuid": "^9.0.1"
 	}
 }
